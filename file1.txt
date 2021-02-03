@@ -1,1 +1,3 @@
 this is the initial file to test on/with
+
+user2 says hi
