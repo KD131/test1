@@ -1,4 +1,4 @@
 ignore*
-folder/*
-!folder2
 !.gitkeep
+folder/*
+# !folder2
